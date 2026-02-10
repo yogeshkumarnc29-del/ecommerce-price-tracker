@@ -33,7 +33,19 @@ Automated tool to track product prices and find the best deals.
 4. Recommends best time to buy
 5. Exports reports to Excel
 
+## 📸 Screenshots
 
+### Laptop Price Tracking
+![Laptop Price Chart](laptop_price_chart.png)
+
+### Smartphone Price Tracking
+![Phone Price Chart](phone_price_chart.png)
+
+### Price Comparison
+![Comparison Chart](comparison_chart.png)
+
+### Excel Export
+![Excel Output](excel_output.png)
 
 ---
 Built by Yogesh kumar NC | Data Analytics Portfolio
